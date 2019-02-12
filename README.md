@@ -13,7 +13,7 @@ A blog website about books.
 
 ## Instructions
 
-* Clone git repo.
+* Fork git repo.
 * Navigate to the projects directory through a console.
 * Run ```npm install``` from a console.
 
